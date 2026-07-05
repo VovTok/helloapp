@@ -9,3 +9,5 @@ def greetWhite():
 
 if __name__ == "__main__":
     main()
+    greetWhite()
+    greetBlack()
